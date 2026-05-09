@@ -89,7 +89,7 @@ color-flag-lifting-robot/
 ├── README.md
 ├── docs/
 │   ├── arena-design.png
-│   ├── robot-photo.jpg
+│   ├── robot-photo.png
 │   ├── wiring-diagram.png
 │   └── flowchart.png
 │
@@ -104,6 +104,7 @@ color-flag-lifting-robot/
 │
 └── media/
     └── demo-video.mp4
+```
 
 ---
 
