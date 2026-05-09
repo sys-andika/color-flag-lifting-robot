@@ -104,3 +104,35 @@ color-flag-lifting-robot/
 │
 └── media/
     └── demo-video.mp4
+
+---
+
+## 📸 Documentation
+
+### Robot Preview
+
+![Robot](docs/robot-photo.png)
+
+---
+
+### Arena Design
+
+![Arena](docs/arena-design.png)
+
+---
+
+### Wiring Diagram
+
+![Wiring](docs/wiring-diagram.png)
+
+---
+
+### System Flowchart
+
+![Flowchart](docs/flowchart.png)
+
+---
+
+## 👨‍💻 Author
+
+Developed by Andika
